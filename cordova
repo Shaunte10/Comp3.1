@@ -1,9 +1,0 @@
-/
-|- cordova/
-    |- config.xml
-|- src/
-    |- <.js files>
-|- test/
-    |- <.spec.js files>
-|- package.json
-|- .tabrisignore
